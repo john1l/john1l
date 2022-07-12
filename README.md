@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john1l 닉네임&layout=레이아웃 스타일&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john1l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
