@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=레이아웃 merko&theme=merko)
+
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=johnsnow123)](https://solved.ac/johnsnow123/)
 
 
