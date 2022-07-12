@@ -5,6 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john1l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/john01ck)
+
 
 
 <!--
